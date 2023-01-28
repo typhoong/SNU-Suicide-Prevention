@@ -1,6 +1,5 @@
 # Suicide Prevention
-Code, report, and data of the 'Project to determine the major factors of suicide and predict suicide rates by group - Focusing on the Thompson Sampling'
-conducted at the '4th Seoul National University Big Data Fintech Expert Training Course'.
+Code, report, and data of the 'Project to determine the major factors of suicide and predict suicide rates by group - Focusing on the Thompson Sampling' conducted at the '4th Seoul National University Big Data Fintech Expert Training Course'.
 
 
 ### Task Overview
